@@ -11,7 +11,7 @@ import SwiftUI
 struct email_senderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SettingsView()
         }
     }
 }
